@@ -1,0 +1,108 @@
+h1{
+    color: #454545;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.subheading{
+    color: whitesmoke;
+    font-style: italic;
+}
+
+.header{
+    background-color: rgb(104, 178, 228);
+    color: white;
+    height: 150px;
+    line-height: 150px;
+}
+
+.mainbody{
+    background-color: rgba(245, 245, 220, 0.423);
+    left: 5px;
+    right: 5px;
+
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 25px;
+    line-height: 25px;
+    bottom: 0px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    font-size: 12px;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.common{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.uncommon{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+.business{
+    color: whitesmoke;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float: left;
+    padding: 13px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #727272;
+}
+
+ul{
+    position: inside;
+    text-align: left;
+    display: inline-block;
+    line-height: 50px;
+}
+
+ol{
+    position: inside;
+    text-align: left;
+    display: inline-block;
+    line-height: 50px;
+}
+
+.emphasizedText{
+    font-size: 20px;
+}
+
+a{
+    color: white;
+}
+
+.center{
+    text-align: center;
+    align-items: center;
+}
